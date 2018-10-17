@@ -6,11 +6,11 @@ Primer crearem el projecte amb el main i que tregui per pantalla Hola món
 
 Després compilem tots els .java que hi hagi dins del paquet
 
-![Prova](/imatges/JAVA2.png)
+![Prova](/imatges/JAVA2.PNG)
 
 Creem l'arxiu .mf al mateix al src
 
-![Prova](/imatges/JAVA3.png)
+![Prova](/imatges/JAVA3.PNG)
 
 Després haurem de crear el fitxer .jar fent servir la següent comanda
 
@@ -18,4 +18,4 @@ Després haurem de crear el fitxer .jar fent servir la següent comanda
 
 Al final, haurem d'executar el fitxer .jar i ja ens apareixarà el hola món.
 
-![Prova](/imatges/JAVA5.png)
+![Prova](/imatges/JAVA5.PNG)
