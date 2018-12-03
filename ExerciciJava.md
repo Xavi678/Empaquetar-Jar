@@ -46,3 +46,7 @@ Després empaquetem el fitxer amb el mymanifest
 Després executem el -jar
 
 ![](/imatges/JAVA11.PNG)
+
+La millor opció es fer-ho amb el manifest ja que es la més senzilla i la que dóna menys problemes
+
+El DAWUtils el que fa es ,bàsicament crea un arxiu, que tu li has posat al constructor, i hi escriu els diferents missatges, també es pot elegir la prioritat dels logs.
