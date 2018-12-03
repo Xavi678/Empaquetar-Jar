@@ -19,3 +19,30 @@ Després haurem de crear el fitxer .jar fent servir la següent comanda
 Al final, haurem d'executar el fitxer .jar i ja ens apareixarà el hola món.
 
 ![Prova](/imatges/JAVA5.PNG)
+
+
+# Segona part
+
+Primer descarreguem la classe i el Jar
+
+![](/imatges/JAVA6.PNG)
+
+Creem el projecte, amb la classe java i el paquet
+
+![](/imatges/JAVA7.PNG)
+
+Compilem el .java amb l'external jar
+
+![](/imatges/JAVA8.PNG)
+
+Creem el mymanifest
+
+![](/imatges/JAVA10.PNG)
+
+Després empaquetem el fitxer amb el mymanifest
+
+![](/imatges/JAVA9.PNG)
+
+Després executem el -jar
+
+![](/imatges/JAVA11.PNG)
